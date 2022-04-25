@@ -6,3 +6,5 @@ One of the biggest challenges for me was learning how to add an event listener t
 
 Road Map to future improvements:
 In the future, I would love to learn how to incorporate my assignment to feel more like the game with a vertical directional axis which would require rotating the images to change his direction up and down, adding borders that my PacMan cannot cross, and sound effects!
+
+To run this project on your own machine, clone the repository onto your computer and pull the html file into your web browser!
